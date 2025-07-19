@@ -59,5 +59,9 @@ style={{ color: '#e50914', cursor: 'pointer' }}
 </p>
 </div>
 );
+<<<<<<< HEAD
 };
 export default Login;
+=======
+};
+>>>>>>> 07c0875efe5a86d6de94e10b841dfba676b25dcd
